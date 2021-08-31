@@ -1,0 +1,12 @@
+{
+    "data": "mandarin-demo.csv",
+    "characters": "standard-set.csv",
+    "fontset": "fontset.json",
+    "data_keys": [
+        "initial",
+        "medial",
+        "nucleus",
+        "coda",
+        "tone"
+    ]
+}

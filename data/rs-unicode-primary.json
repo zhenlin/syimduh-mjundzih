@@ -1,0 +1,9 @@
+{
+    "data": "rs-unicode-primary.csv",
+    "fontset": "fontset.json",
+    "data_keys": [
+        "radical_no",
+        "radical_simpl_flg",
+        "stroke_count"
+    ]
+}
